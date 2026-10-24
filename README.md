@@ -104,6 +104,6 @@ Choose the installation scope if prompted. For a manual installation, replace th
 - [SKILL.md](SKILL.md): the instructions loaded by the agent.
 - [references/methods.md](references/methods.md): guidance for choosing a useful method.
 - [references/examples.md](references/examples.md): examples of possible approaches and their limits.
-- [evals/](evals/): development cases, a review rubric, and an earlier validation record. These are not needed during ordinary use.
+- [evals/](evals/): development cases and a review rubric. These are not needed during ordinary use.
 
 Installation details: [Skills CLI](https://github.com/vercel-labs/skills#install-a-skill), [Codex](https://developers.openai.com/codex/skills/), and [Claude Code](https://code.claude.com/docs/en/skills).
